@@ -1,0 +1,6 @@
+variables>>> IN c++ are used to store data and manipulate through the program
+int>>>these are used to store integer values i.e 1.2.3
+float>>> used to store decimal values 10.5,11.5
+double i.e 10.777,7.245
+char >> used to store a
+string >> i.e "hello">>>'hello'
